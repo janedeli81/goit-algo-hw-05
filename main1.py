@@ -38,7 +38,7 @@ class HashTable:
                     return True
         return False
 
-# Тестуємо з новим методом delete:
+# Тест:
 H = HashTable(5)
 H.insert("apple", 10)
 H.insert("orange", 20)
